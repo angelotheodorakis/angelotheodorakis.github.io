@@ -1,3 +1,9 @@
+---
+# the default layout is 'page'
+icon: fas fa-info-circle
+order: 4
+---
+
 # Hey there!
 
 Welcome to my personal website. I built this site using Jekyll and the Chirpy theme to showcase my personal projects and share my Resume online.
