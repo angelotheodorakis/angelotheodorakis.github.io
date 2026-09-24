@@ -1,19 +1,391 @@
 ---
 # the default layout is 'page'
+layout: page
 icon: fas fa-info-circle
-order: 4
+order: 1
 ---
 
-# Hey there!
+## Professional summary
 
-Welcome to my personal website. I built this site using Jekyll and the Chirpy theme to showcase my personal projects and share my Resume online.
+I am an accomplished Systems and Support Engineer with 10+ years of experience leading complex technical troubleshooting, incident management (SEVs), infrastructure automation, and enterprise fleet management. I have a proven track record as a Subject Matter Expert (SME) collaborating with engineering and product teams to resolve intricate system-level failures, build observability dashboards, and automate developer workflows. I am skilled in Python, Bash, Go, cloud infrastructure, and modern debugging, with a strong focus on enhancing developer experience and scaling support operations.
 
-Things here are still work in progress but what in life isn't?
+----
 
-## About me
+## Work experience
 
-I am a Senior Systems and Support Engineer who taught myself how to program on the family Amstrad CPC6128. I also play music...
+<!-- markdownlint-disable -->
+> **Enterprise Systems Engineer (CPE)** - Meta Ltd. 
+<span style="float:right;">
+    *🇮🇪 Dublin, Ireland* -- May 2024 - August 2026
+</span>
+{: .prompt-info }
+<!-- markdownlint-restore -->
 
-## TODO
+- **Infrastructure & MDM Automation**: Engineered automated OS installation pipelines, custom API integrations, and provisioning workflows within managed MDM environments to streamline platform readiness across Meta's large macOS and multi-OS fleets.
 
-Complete this website of course
+- **Observability & Health**: Owned monitoring, alerting workflows, and custom health dashboards to track system reliability and proactively detect infrastructure issues across global fleets in real time
+
+- **Root-Cause Automation**: Driven by the core principle that the optimal user experience prevents issues from occurring, prioritised root-cause remediation through scalable automation to permanently eliminate recurring technical debt
+
+- **Cloud Infrastructure & IaC**: Built automated Windows AMI images using Packer and managed jumphost fleet infrastructure via Terraform on AWS for a Citrix on-prem environment
+
+- **Technical Leadership**: Appointed EMEA Technical Lead Engineer; authored the team charter, built operational onboarding frameworks, and mentored new engineering hires
+
+- **Open Source & Quality Engineering**: Maintained open-source contributions to IT Chef cookbooks, RedHat/Fedora package bug reporting, and hardware qualification benchmarks
+
+----
+
+<!-- markdownlint-disable -->
+> **Senior Enterprise Support Engineer** – Meta Ltd.
+<span style="float:right;">
+    *🇮🇪 Dublin, Ireland* -- January 2018 - May 2024
+</span>
+{: .prompt-info }
+<!-- markdownlint-restore -->
+
+- **Strategic Leadership & Dashboards**: Shaped global support service strategy as a senior team member, creating custom dashboards to drive data-informed operational decisions
+
+- **Subject Matter Expert (SME)**: Served as primary technical escalation lead for complex macOS and Linux systems, developer environments (devservers), and deep system-level troubleshooting
+
+- **Incident Management (SEVs)**: Partnered cross-functionally with Network Engineering, Security, and Core Infrastructure to drive real-time resolution for high-severity operational outages
+
+- **Technical Leadership & Escalations**: Acted as team lead and primary escalation point for complex technical issues, mentoring support engineers to level up troubleshooting standards and operational support quality across the team
+
+- **Stakeholder Support & Service Excellence**: Delivered exceptional support across cross-functional teams, becoming a trusted technical point of contact routinely requested by name by colleagues seeking reliable resolution for critical issues
+
+- **Programme Leadership**: Founded and led the CPE Ambassador programme to align cross-functional engineering and support stakeholders globally
+Technical Writing & Documentation: Authored high-impact architecture wikis, operational runbooks, and technical guides, establishing clear documentation standards and simplifying complex systems knowledge across global teams
+
+- **Technical Communication**: Skilled at translating complex system technical concepts or issues into clear, simple language for non-technical colleagues to better understand
+
+- **Zero-Trust macOS Provisioning**: Conceptualised and co-implemented Meta's off-corp, zero-trust macOS provisioning pipeline in collaboration with CPE prior to joining the team full time, influencing strategy to establish it as the primary deployment pipeline for Meta's large macOS fleet
+
+- **Physical Security Modernisation**: Led the "Guard Transformation project" to systematically eliminate repeat support issues via automation and better engineering, driving the ultimate transition of physical security infrastructure from Windows to ChromeOS
+
+----
+
+<!-- markdownlint-disable -->
+> **Global IT Operations Manager** – Camara Education Ltd.
+<span style="float:right;">
+    *🇮🇪 Dublin, Ireland* -- Feb 2013 - Dec 2017
+</span>
+{: .prompt-info }
+<!-- markdownlint-restore -->
+
+- **Identity & Cloud Services Management**: Administered domain services, user provisioning, and cloud access control for over 300 users across Google Workspace and Microsoft Office 365
+
+- **Infrastructure & Server Operations**: Built, configured, and maintained production servers including Ubuntu Server (PXE automated deployment, secure wipe, diagnostics), Windows Active Directory, and PFSense with caching proxies
+
+- **Network Infrastructure & Hardware Management**: Designed and deployed core network topology, printer infrastructure, and AV conference systems while supporting multi-OS endpoint fleets (Linux, Windows, macOS) and VoIP systems
+
+- **Custom OS Development & Deployment**: Engineered, customised, and maintained server and client builds for Camarabuntu (a custom Linux OS used for educational deployments)
+
+- **Systems Administration & Data Management**: Managed CRM and database operations (Salesforce, OpenERP), asset tracking pipelines, corporate website infrastructure, and technical training for workshop technicians
+
+----
+
+<!-- markdownlint-disable -->
+> **Technical Support Analyst** – Hewlett-Packard Co.
+<span style="float:right;">
+    *🇮🇪 Dublin, Ireland* -- Oct 2012 -  Feb  2013
+</span>
+{: .prompt-info }
+<!-- markdownlint-restore -->
+
+- **Customer Technical Support**: Delivered tier-1 technical troubleshooting for external customers, identifying hardware, software, and configuration faults
+
+- **Ticket Management & Quality Logging**: Documented, categorised, and validated technical incident information in centralised databases to maintain system tracking accuracy
+
+- Repeated the phrase “have you tried turning it off and on again” a lot
+
+----
+
+<!-- markdownlint-disable -->
+> **Workshop Technician** – Camara Education Ltd. (volunteer)
+<span style="float:right;">
+    *🇮🇪 Dublin, Ireland* -- August 2012 - January 2013
+</span><br><br>
+{: .prompt-info }
+<!-- markdownlint-restore -->  
+
+- **Hardware Refurbishment & Diagnostics**: Managed hardware repair, component assembly, and hardware diagnostic testing for laptop and desktop units
+
+- **OS Provisioning & Benchmarking**: Flashed custom operating system images, deployed educational software suites, and conducted quality and performance testing prior to deployment
+
+----
+
+<!-- markdownlint-disable -->
+> **Localisation QA Tester** – Keywords International Ltd. 
+<span style="float:right;">
+    *🇮🇪 Dublin, Ireland* -- August 2012 - October 2012
+</span>
+{: .prompt-info }
+<!-- markdownlint-restore -->  
+
+----
+
+<!-- markdownlint-disable -->
+> **Field Service Technical Engineer** - Pizza Fan services and food Ltd. (Technical Department)
+<span style="float:right;">
+    *🇬🇷 Athens, Greece* -- September 2007 - April 2012
+</span> <br><br>
+{: .prompt-info }
+<!-- markdownlint-restore -->  
+
+----
+
+## Techincal Skills
+
+```php
+
+LANGAUAGES & SCRIPTING
+
+Python [Expert]
+        #   10+ years enterprise automation
+        #   internal application development
+        #   API integration
+Bash / Shell [Advanced]
+        #   System-level provisioning
+        #   kickstart automation and deployment pipelines
+        #   fleet management and troubleshooting
+HTML/PHP/Hack [Advanced]
+        #   Automated MDM actions
+        #   data implementation
+        #   observability API queries
+Go [Intermediate] 
+        #   CLI tools
+        #   infrastructure utilities
+        #   open-source contributions
+C++/ SQL/Rust [Working Knowledge]
+        #   Systems tinkering
+        #   package updates
+        #   fundamental data querying
+```
+
+```php
+
+DEVICE MANAGEMENT & ENDPOINT SYSTEMS SUPPORT
+
+macOS, Linux, Windows and ChromeOS Endpoint Fleet Management [Expert] 
+        #   Enterprise fleet administration
+        #   macOS system profile management
+        #   Windows Intune
+        #   deep OS troubleshooting.  
+MDM & Provisioning [Expert] 
+        #   Provisioning via managed MDM environments
+        #   Apple microMDM
+        #   zero-trust off-corp provisioning pipelines
+        #   custom API integrations 
+Configuration Management [Advanced] 
+        #   IT Chef cookbook development
+        #   package maintenance
+Linux Infrastructure [Expert]
+        #   Fedora & CentOS
+        #   Ubuntu Server/Desktop
+        #   kernel troubleshooting
+        #   package maintenance
+```
+
+```php
+CLOUD & DEVELOPMENT TOOLING
+
+Cloud & IaC [Advanced]
+        #   AWS configuration, IaC, Identity management (IAM)
+        #   Citrix DaaS and on-prem using Terraform
+        #   VMware ESXi Virtualisation
+        #   Proxmox
+Developer Tooling [Expert]
+        #   Source control workflows (Git, Mercurial)
+        #   cURL, CLI debugging
+        #   developer experience tooling
+```
+
+```php
+OBSERVABILITY & OPERATIONS
+
+Monitoring & Alerting [Expert]
+        #   Fleet health dashboards
+        #   log analysis
+        #   metric tracking
+        #   proactive alert tuning
+Incident Management [Expert]
+        #   real-time incident response (SEVs)
+        #   cross-functional root cause analysis 
+```
+
+----
+
+## Education
+
+<!-- markdownlint-disable -->
+> #### **BSc Mathematics** (Coursework Complete, 3/4 Years)
+<span style="float:right;">
+    *🇬🇷 Athens, Greece* -- September 2002 - June 2010 
+</span>
+National and Kapodistrian University of Athens
+{: .prompt-tip }
+
+
+> #### MMus - Masters in **Music Counterpoint** (GPA: 10/10)
+<span style="float:right;">
+    *🇬🇷 Athens, Greece* -- September 2008 - June 2010  
+</span>
+Alypios Music School
+{: .prompt-tip }
+
+> #### Bmus - Bachelors in **Music Harmony** (GPA: 10/10)
+<span style="float:right;">
+    *🇬🇷 Athens, Greece* -- September 2006 - June 2008 
+</span>
+Municipal Conservatory of Petroupolis
+{: .prompt-tip }
+
+> #### Certificate in **Classical Piano Performance** (Level equivalent to ABRSM Level 7)
+<span style="float:right;">
+    *🇬🇷 Athens, Greece* -- September 1992 -  May 2012 
+</span>
+Municipal Conservatory of Petroupolis
+{: .prompt-tip }
+
+> #### Certificate in **classical singing** (Level equivalent to ABRSM Level 4)
+<span style="float:right;">
+    *🇬🇷 Athens, Greece* -- September 2005 - May 2012 
+</span>
+Municipal Conservatory of Petroupolis
+{: .prompt-tip }
+
+> #### Cambridge First Certificate in English (FCE) (GPA: B - Very Good)
+<span style="float:right;">
+    *🇬🇷 Athens, Greece* -- September 1990 - May 1999  
+</span>
+Rallias English school
+{: .prompt-tip }
+
+----
+
+## Courses & Certifications
+
+> #### Source control methodologies (git and Mercurial)
+<span style="float:right;">
+    *September 2024*
+</span>
+CornerStone Learning
+{: .prompt-tip }
+
+> #### Security in practice - The craft of reliability
+<span style="float:right;">
+        *May 2024*
+</span>
+CornerStone Learning
+{: .prompt-tip }
+
+> #### Learn Ruby & Learn Ruby on Rails
+<span style="float:right;">
+    *September 2018*
+</span>
+codeacademy.com 
+{: .prompt-tip }
+
+> #### CS1301x: Introduction to Computing using Python (through eDX)
+<span style="float:right;">
+    *April 2017 - April 2018*  
+</span>
+GTx - The Georgia Institute of Technology
+{: .prompt-tip }
+
+> #### Chef Fundamentals & Chef: Setting Up the Chef Environment
+<span style="float:right;">
+    *March 2018*  
+</span>
+CBT Nuggets
+{: .prompt-tip }
+
+> #### Inspiring Leadership through Emotional Intelligence (through Coursera)
+<span style="float:right;">
+    *September 2017 - October 2017*  
+</span>
+Case Western Reserve University (Click [here](https://www.coursera.org/account/accomplishments/verify/PKAVV9DPV79E) for digital certificate)
+{: .prompt-tip }
+
+> #### LFS151x: Introduction to Cloud Infrastructure Technologies (through eDX)
+<span style="float:right;">
+    *October 2016 - April 2017*  
+</span>
+The Linux Foundation
+{: .prompt-tip }
+
+> #### CLOUD200: Introduction to Cloud Computing (through eDX)
+<span style="float:right;">
+    *September 2016*  
+</span>
+Microsoft
+{: .prompt-tip }
+
+> #### CompTIA Cloud Essentials
+<span style="float:right;">
+    *August 2016 - September 2016*  
+</span>
+Simplilearn (Click [here](https://certificates.simplicdn.net/share/thumb_205592.png) for digital certificate)
+{: .prompt-tip }
+
+> #### LFS101x.2, Introduction to Linux (through eDX)
+<span style="float:right;">
+    *June 2016 -  July 2016*  
+</span>
+The Linux Foundation (Click [here](https://verify.edx.org/cert/57fcd26ef91d424d9f1222348bd1a516) for digital certificate)
+{: .prompt-tip }
+
+> #### BMPR365x: Vocal Recording Technology (through eDX)
+<span style="float:right;">
+    *January 2016 - March 2016*  
+</span>
+Berklee College of Music, (Click here for digital certificate)
+{: .prompt-tip }
+<!-- markdownlint-enable -->
+
+----
+
+## Open Source Contributions
+
+#### Fedora Packages
+
+Fedora package fixes. Examples include:
+- Co-maintainer of Phoronix-test-suite
+- openconnect fix for for [Cisco DTLS MTU detection](https://packages.fedoraproject.org/pkgs/openconnect/openconnect/fedora-44-updates.html)
+- argos gnome extension updates and packaging
+
+Bug reports and contributions through BugZilla
+
+#### Meta IT Chef Cookbooks
+Contributor to the [Facebook IT Chef API cookbooks github project](https://github.com/facebook/chef-cookbooks)
+Example work: [fb_nftables cookbook](https://github.com/facebook/chef-cookbooks/tree/main/cookbooks/fb_nftables)
+
+----
+
+## Additional Skills
+
+#### Languages
+English – Fluent (Professional level)
+Greek – Native Speaker
+
+#### Personal
+Strong work ethic, ambition, attention to detail, innovative thinking, team player, multitasking, creative problem solving, verbal and interpersonal communication skills, environmentally conscious; 
+
+```bash
+for adj in “${personal_attributes[@]}”; do echo “$adj”; done
+```
+
+----
+
+## Personal Interests
+
+```console
+
+* Recording and composing music in my personal home studio  
+* Creating and sharing music videos on YouTube  
+* Tinkering with single board computers for automation projects  
+* Mobile OS and custom ROMs testing, customisation and development (Sailfish OS, Ubuntu Touch, postmarketOS)  
+* Staying active, Yoga, hiking or running when weather permits  
+* Cooking, fermenting things (sourdough, kombucha, sauerkraut), beer brewing
+
+```
