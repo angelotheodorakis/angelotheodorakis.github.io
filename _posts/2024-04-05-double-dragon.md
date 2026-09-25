@@ -1,7 +1,6 @@
 ---
 title: Double Dragon II - The Revenge Amstrad Theme - Metal cover
 date: 2024-04-05 23:15:00
-categories: [Music]
 description: The year is 2025... The Earth's ozone layer was destroyed in the latter part of the twentieth century.
 ---
 
