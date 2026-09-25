@@ -2,9 +2,7 @@
 title: ThunderCats The Lost Eye of Thundera Amstrad Theme - Metal cover 
 date: 2025-03-23 23:15:00
 categories: [Music]
-tags: [music]     # TAG names should always be lowercase
 description: Thundercats needs no introduction, if you are a kid of the 80's like myself you grew up watching it on the TV along with a few other great cartoons. Power metal music intro, greatly designed characters, a rich plot with a nice lesson or two at the end of every episode. In my opinion, Thundercats pioneered an entire genre or animated series.
- 
 ---
 
 {% include embed/youtube.html id='9-RzOfdG08M' %}

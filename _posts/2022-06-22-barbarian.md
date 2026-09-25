@@ -2,9 +2,7 @@
 title: Barbarian Amstrad Theme - Metal Cover
 date: 2022-06-22 23:15:00
 categories: [Music]
-tags: [music]     # TAG names should always be lowercase
 description: This game needs no introduction, it's simply a masterpiece. In my opinion, it is a game that pioneered arena style fighting games. The music is simply awesome so I felt it deserved a remake.
- 
 ---
 
 {% include embed/youtube.html id='I1F-sqm_qwI' %}

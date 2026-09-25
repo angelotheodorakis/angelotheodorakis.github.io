@@ -2,7 +2,6 @@
 title: Prehistorik 2 Amstrad Theme - Metal Cover 
 date: 2022-04-22 23:15:00
 categories: [Music]
-tags: [music]
 description: The video that started everything, my first Amstrad cover
 ---
 
