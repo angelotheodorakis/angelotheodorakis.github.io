@@ -16,6 +16,8 @@
   background-size: cover;
   background-repeat: no-repeat;
   background-position: top;
+  $sidebar-width: 300px !default; /* the basic width */
+  $sidebar-width-large: 350px !default; /* screen width: >= 1650px */
 }
 
 /* Embedded Side Bar Pannel Styles */
