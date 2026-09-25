@@ -1,0 +1,43 @@
+---
+---
+
+/* prettier-ignore */
+@use 'main
+{%- if jekyll.environment == 'production' -%}
+  .bundle
+{%- endif -%}
+';
+
+/* append your custom style below */
+
+  /* Embedded Side Bar Pannel Image */
+#sidebar {
+  background-image: url('/assets/lib/sidebar-bg.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+
+/* Embedded Side Bar Pannel Styles */
+#sidebar .site-title {
+    color: #ffffff; 
+    text-shadow: 5px 5px 10px rgba(0,0,0,0.5);
+}
+#sidebar .site-subtitle {
+    color: #ffffff;
+    text-shadow: 2px 2px 3px rgba(0,0,0, 0.7);
+}
+#sidebar ul li.nav-item a.nav-link span{
+    font-size: 100%;
+}
+#sidebar ul li.nav-item a.nav-link {
+    color: #ffffff;
+}
+
+/* Mobile font size fix */
+@media (max-width: 849px) {
+  .content {
+    font-size: 18px;
+    line-height: 1.75;
+  }
+}

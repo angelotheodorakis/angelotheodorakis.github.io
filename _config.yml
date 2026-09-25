@@ -1,11 +1,7 @@
 # The Site Configuration
 
-# Import the theme
 theme: jekyll-theme-chirpy
 
-# The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
-# If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
-# otherwise, the layout language will use the default value of 'en'.
 lang: en
 
 # Change to your timezone › https://zones.arilyn.cc
@@ -14,7 +10,7 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Angelo Theodorakis # the main title
+title: Evangelos (Angelo) Theodorakis
 
 tagline: Systems and Support Engineer, Musician, Sound Engineer, Mathematician, Athlete, Cat Dad.
 
@@ -26,16 +22,14 @@ description: >- # used by seo meta and the atom feed
 url: "https://angelotheodorakis.github.io"
 
 github:
-  username: angelotheodorakis # change to your GitHub username
+  username: angelotheodorakis
 
 facebook:
   username: angelo.theodorak
 
 social:
-  # Change to your full name.
-  # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Angelo Theodorakis
-  email: theodorakis.angelo@gmail.com # change to your email address
+  email: theodorakis.angelo [at] gmail
   fediverse_handle: # fill in your fediverse handle. E.g. "@username@domain.com"
   links:
     # The first element serves as the copyright owner's link
@@ -105,6 +99,8 @@ social_preview_image: # string, local or CORS resources
 
 # boolean type, the global switch for TOC in posts.
 toc: true
+
+include_dir: "."
 
 actions:
   # Display "Edit this post" action on each post page to encourage contributions.
