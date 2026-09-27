@@ -9,13 +9,13 @@ This page is still a little bit work in progress. I'm collecting all I can think
 
 ## Software
 
-#### Fedora Hardware validation QA framework
+### Fedora Hardware validation QA framework
 
 Hardware QA ISO for Fedora qualification (intended to align with the Fedora Ready program)
 
 [GitHub Page](https://github.com/angelotheodorakis/fedora-hardware-qa)
 
-#### Fedora Helper Scripts
+### Fedora Helper Scripts
 
 Collection of administrative scripts for Linux Fedora systems with an intention to simplify configuration. (Example: unlocking LUKS encryption with TPM2.0 chip)
 
@@ -23,7 +23,7 @@ Collection of administrative scripts for Linux Fedora systems with an intention 
 
 ----
 
-## Music
+## Music on SoundCloud
 
 #### Common Rarity - Infinite Dreams Trilogy Demo
 <iframe width="100%" height="450" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?visual=true&url=https%3A%2F%2Fapi.soundcloud.com%2Fplaylists%2F6315458&show_artwork=true"></iframe>
@@ -94,7 +94,7 @@ Collection of administrative scripts for Linux Fedora systems with an intention 
 
 ----
 
-## Personal Music Videos on YouTube
+## Music Videos on YouTube
 
 #### Angelo Theodorakis - Prehistorix II
 <div class="videoWrapper">

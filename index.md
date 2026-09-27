@@ -4,10 +4,10 @@ title: Angelo Theodorakis
 cover: true
 hide_description: true
 description: >
-  Systems and Support Engineer, Musician, Sound Engineer, Mathematician, Athlete, Cat Dad.
+  Systems and Support Engineer, Musician, Sound Engineer, Mathematician, Sports Enthusiast, Cat Dad.
 ---
 
-## Hey! 🎉
+## Hey! 👋
 
 Welcome to my website!
 
@@ -17,4 +17,4 @@ I am a Systems and Support Engineer who taught myself how to program on the fami
 
 ----
 
-## [About me (personal CV)](./about.md)
+## [About me](./about.md)
