@@ -28,7 +28,7 @@ description:           >
   I am a Senior Systems and Support Engineer who taught myself how to program on the family Amstrad CPC6128. I also play music...
 
 # A shorter description for the sidebar.
-tagline:               Systems and Support Engineer, Musician, Sound Engineer, mMathematician, Sports Enthusiast, Cat Dad.
+tagline:               Forgive me father for I have synth...
 
 # A list of keywords for your blog
 keywords:              []
@@ -84,7 +84,7 @@ theme: jekyll-theme-hydejack
 # ----------------------------------------------------------------------------------------
  
 # Sidebar image and theme color of the site.
-accent_image:          /assets/img/sidebar-bg.jpg
+accent_image:          /assets/img/sidebar-bg-alt.jpg
 accent_color:          rgb(44,55,56)
 
 # This is used for the `theme-color` meta tag,
