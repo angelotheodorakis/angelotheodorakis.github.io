@@ -10,4 +10,4 @@ I am a Senior Systems and Support Engineer who taught myself how to program on t
 
 ## TODO
 
-Complete this website of course. Stay tuned!
+Complete this website of course.
