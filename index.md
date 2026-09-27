@@ -9,7 +9,7 @@ description: >
 
 ## Hey! 🎉
 
-Welcome to my website.
+Welcome to my website!
 
 I created this personal website so I can share my CV online but also my music portfolio amongst other work.
 
